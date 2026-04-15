@@ -1,0 +1,13 @@
+# Binarios y recursos pesados
+Recursos/
+*.zip
+*.pdf
+*.mov
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# Sistema
+.DS_Store
+*.local
